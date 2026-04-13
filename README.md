@@ -83,7 +83,7 @@ Streamlit Web App
 ##  App Demo
 <img width="983" height="747" alt="image" src="https://github.com/user-attachments/assets/5c26a6b1-89ad-4531-bcef-08e144f5210f" />
 
-!Demo(demo.gif)
+![Demo](demo.gif)
 
 ---
 
