@@ -72,7 +72,7 @@ Streamlit Web App
 
 ##  Example Output
 
-* **Match Score:** 92%
+* **Match Score:** 95%
 * **Confidence:** High
 * **Strong Points:** ML pipeline, deployment, Python expertise
 * **Missing Skills:** Advanced statistics, MLOps exposure
