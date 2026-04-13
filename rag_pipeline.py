@@ -10,7 +10,7 @@ import os
 api_key = os.getenv("GEMINI_API_KEY")
 
 if api_key is None:
-    api_key = "AIzaSyDM8RrvzLw7uC9JImua96rEpNaOqMFbUCc"
+    api_key = "YOUR_API_KEY"
 
 genai.configure(api_key=api_key)
 llm = genai.GenerativeModel("gemini-2.5-flash")
